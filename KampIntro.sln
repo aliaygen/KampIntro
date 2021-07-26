@@ -21,7 +21,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medhods2", "Medhods2\Medhods2.csproj", "{BD0B372E-6D47-4882-A7D0-B07E4E5AD75B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTracking", "CustomerTracking\CustomerTracking.csproj", "{10AD8290-5477-4623-8944-8A04C2EB7EE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerTracking", "CustomerTracking\CustomerTracking.csproj", "{10AD8290-5477-4623-8944-8A04C2EB7EE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{7605439D-B5F7-44E4-9C63-2165EBB79DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksionlar", "Koleksionlar\Koleksionlar.csproj", "{D7BD9032-40E1-4B8C-843A-DEDFB75A48BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{AFE8F41F-4083-4A78-A84B-9F5FF2F0382A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{10AD8290-5477-4623-8944-8A04C2EB7EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10AD8290-5477-4623-8944-8A04C2EB7EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10AD8290-5477-4623-8944-8A04C2EB7EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7605439D-B5F7-44E4-9C63-2165EBB79DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7605439D-B5F7-44E4-9C63-2165EBB79DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7605439D-B5F7-44E4-9C63-2165EBB79DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7605439D-B5F7-44E4-9C63-2165EBB79DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BD9032-40E1-4B8C-843A-DEDFB75A48BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BD9032-40E1-4B8C-843A-DEDFB75A48BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BD9032-40E1-4B8C-843A-DEDFB75A48BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BD9032-40E1-4B8C-843A-DEDFB75A48BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE8F41F-4083-4A78-A84B-9F5FF2F0382A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE8F41F-4083-4A78-A84B-9F5FF2F0382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE8F41F-4083-4A78-A84B-9F5FF2F0382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE8F41F-4083-4A78-A84B-9F5FF2F0382A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
