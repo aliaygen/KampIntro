@@ -46,7 +46,7 @@ namespace MasaGosteme
                         return;
                     }
                 }
-                foreach (int masa in asamMasalar)
+                foreach (int masa in aksamMasalar)
                 {
                     if (masa == masaNo)
                     {
